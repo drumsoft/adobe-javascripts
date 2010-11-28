@@ -1,0 +1,23 @@
+Adobe CS系 用のスクリプト
+
+Illustrator
+	ai-label_from_csv.js
+		PDFファイルを Illustrator に面付け（印刷入稿用）
+	ai-pdf-imposition.js
+		CSVデータからラベルを作成する
+
+InDesign
+	pdf2book.jsx
+		PDFファイルの各ページを製本用に印刷できるように InDesign ドキュメント上に貼付けてページ順を再構成する
+	TextFramesChangeBatch.jsx
+		連結されたテキストフレーム（フレームグリッド）の設定を一括変更する
+
+Photoshop
+	ps-filename2caption.js
+		開いている画像にファイル名をキャプションとして重ねる
+	ps-fontlist.js
+		list all font names
+	ps-slippytile.js
+		元画像をすこしずつずらしてタイル化する
+
+
